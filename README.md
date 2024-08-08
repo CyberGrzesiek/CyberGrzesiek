@@ -53,5 +53,6 @@ My experience in computer science has fueled a strong interest in cybersecurity,
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Packet Tracer
+- Wireshark
+- Cyber Security course at Jagiellonian University - HackerU
