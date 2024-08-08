@@ -10,14 +10,14 @@ My experience in computer science has fueled a strong interest in cybersecurity,
 ## Skills
 ##I'll provide my skills below
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Lab|
-| Network Traffic Monitoring and Attack Detection | Wireshark / Packet Tracer|
-| Security Automation         | Lab|
-| Incident Response      | Lab|
-| Case Management                  | Lab|
-| Scripting and Automation | Lab|
+| Skill                                         | Associated Project         | Date      |
+|-----------------------------------------------|----------------------------|-----------|
+| SIEM Implementation and Log Analysis          | Lab| 2022-08|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/CyberGrzesiek/Wireshark/tree/main">Wireshark</a>| 2024-08|
+| Security Automation         | Lab| 2021-06|
+| Incident Response      | Lab| 2021-06|
+| Case Management                  | Lab| 2021-06|
+| Scripting and Automation | Lab| 2021-06|
 
 ## Tools
 ##Here I'll provide tools and break them down into categories (examples)
@@ -54,5 +54,5 @@ My experience in computer science has fueled a strong interest in cybersecurity,
 
 ## Projects
 - Packet Tracer
-- Wireshark
+- <a href="https://github.com/CyberGrzesiek/Wireshark/tree/main">Wireshark</a>
 - Cyber Security course at Jagiellonian University - HackerU
