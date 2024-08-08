@@ -1,6 +1,5 @@
 # Hello, Gregory here,
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm an IT Specialist with over 17 years of experience in the industry, with a deep interest in technology and IT security. Solving complex problems is both my daily routine and passion. Over the past decade, I have honed my skills by working in various environments and operating systems.
 
